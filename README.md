@@ -40,3 +40,7 @@ Screen shot to show that i had succsefully connected my app to the server.
 ![Screenshot (76)](https://user-images.githubusercontent.com/99539947/175228766-3311486d-beb2-403e-a321-1da245fea77e.png)
 
 
+You can now add the /page name and see that it bring up the page in the browser so it is connected and pages are displaying.
+![Screenshot (79)](https://user-images.githubusercontent.com/99539947/175259578-af4bebff-38d1-455e-a796-9697d6e51733.png)
+
+
