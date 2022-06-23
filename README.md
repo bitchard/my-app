@@ -35,3 +35,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+
+Screen shot to show that i had succsefully connected my app to the server.
+![Screenshot (76)](https://user-images.githubusercontent.com/99539947/175228766-3311486d-beb2-403e-a321-1da245fea77e.png)
+
+
